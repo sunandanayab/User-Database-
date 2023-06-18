@@ -29,5 +29,5 @@ else
 	System.out.println("Login Denied");
 }
 }//verify
-}//UserPwdVerify---BLC
+}//UserPwdVerify---BusinessLogicClass
 
