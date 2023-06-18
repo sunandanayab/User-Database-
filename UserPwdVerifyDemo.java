@@ -1,4 +1,3 @@
-//UserPwdVerifyDemo.java
 import oracle.jdbc.driver.OracleDriver;
 import java.sql.*;
 import java.util.Scanner;
@@ -31,11 +30,4 @@ else
 }
 }//verify
 }//UserPwdVerify---BLC
-class UserPwdVerifyDemo 
-{
-	public static void main(String[] args) throws Exception
-	{
-      UserPwdVerify up=new UserPwdVerify();
-        up.verify();
-	}
-}//UserPwdVerifyDemo--ELC
+
