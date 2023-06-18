@@ -19,11 +19,13 @@ This project demonstrates how to create a table using SQL backend, and then impl
 * Update the database connection configuration in the Java program (Main.java) to match your Oracle database setup.
 
 # Usage
-  Compile the Java program:
-* javac Main.java
-* Run the program:
-* java Main
-* Follow the prompts in the command prompt interface to enter the user's name and password.
+  * Compile the Java files using the following command: 
+   1. For package-based file
+      * javac -d . FileName.java
+   2. For main program
+      * javac FileName.java(Compilation)
+      * java FileName (Running)
+* Follow the command prompt interface prompts to enter the user's name and password.
 * The program will store the user's credentials in the Oracle database.
 
 # License
