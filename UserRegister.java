@@ -22,4 +22,4 @@ void register() throws Exception
  int res=pst.executeUpdate();
  System.out.println("\t" +res+ "record is updated -----verify");
  }
-}//BusinessLogicClass--UserRegister
+}//UserRegister--BusinessLogicClass
