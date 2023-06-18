@@ -1,4 +1,4 @@
-SQL Backend with Java Program, User Registration, and User Login Authentication
+# SQL Backend with Java Program, User Registration, and User Login Authentication
 
 # Description
 This project demonstrates how to create a table using SQL backend, and then implement a Java program to collect user credentials (name and password) and store them in an Oracle database. Additionally, the project includes a Java program for user login authentication, which verifies if the entered credentials match the records stored in the Oracle database.
