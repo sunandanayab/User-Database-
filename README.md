@@ -1,5 +1,5 @@
 # Project Name
-SQL Backend with Java User Authentication
+SQL Backend with Java Program, User Authentication
 
 # Description
 This project demonstrates how to create a table using SQL backend, and then implement a Java program to collect user credentials (name and password) and store them in an Oracle database. Additionally, the project includes a command prompt interface to ensure that the program is compilation-free.
