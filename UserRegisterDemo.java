@@ -22,12 +22,4 @@ void register() throws Exception
  int res=pst.executeUpdate();
  System.out.println("\t" +res+ "record is updated -----verify");
  }
-}
-class UserRegistration
-{
-	public static void main(String[] args) throws Exception
-	{
-     UserRegister ud=new UserRegister();
-         ud.register();
-	}
-}//UserRegisterDemo--ELC
+}//BusinessLogicClass--UserRegister
